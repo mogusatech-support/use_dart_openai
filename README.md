@@ -1,8 +1,10 @@
 # use_dart_openai
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
+
+
 
 ////////////////////////////////////////////
 
